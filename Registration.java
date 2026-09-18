@@ -136,9 +136,9 @@ class Main {
 
         Registration registration = new Registration();
 
-        registration.username = "abc_d";
-        registration.password = "Password1!";
-        registration.cellphone = "+27821234567";
+        registration.username = "kyl_1";
+        registration.password = "Ch&&sec@ke99";
+        registration.cellphone = "+27838968976";
 
         System.out.println(registration.checkUsername());
         System.out.println(registration.checkPassword());
