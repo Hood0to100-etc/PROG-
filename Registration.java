@@ -203,7 +203,7 @@ class Login {
 
             // Tests the login using an incorrect username and password.
             // This should return false because the details do not match.
-            boolean result = login.loginUser("abc_d", "Password1!");
+            boolean result = login.loginUser("kyl_1", "Ch&&sec@ke99!");
 
             // Displays the login status message.
             System.out.println(login.returnLoginStatus(result));
